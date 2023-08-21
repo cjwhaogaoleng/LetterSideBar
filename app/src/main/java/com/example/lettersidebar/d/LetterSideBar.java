@@ -1,4 +1,4 @@
-package com.example.lettersidebar;
+package com.example.lettersidebar.d;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -10,6 +10,7 @@ import android.view.View;
 
 import androidx.annotation.Nullable;
 
+import com.example.lettersidebar.util;
 
 
 public class LetterSideBar extends View {

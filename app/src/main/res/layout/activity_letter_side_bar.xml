@@ -17,7 +17,6 @@
         android:visibility="gone"
         android:text="A"
         android:textSize="30dp"
-
         />
     <com.example.lettersidebar.LetterSideBar
         android:id="@+id/letter_bar"
