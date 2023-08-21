@@ -59,8 +59,3 @@ letterSideBar.setLetterTouchListener(this);
  - [ ] :disappointed: :blush:
 
 
- 
- https://github.com/verticaldraglistview/VerticalDragListView.git
-
- https://github.com/cjwhaogaoleng/FlowLayout.git
-
